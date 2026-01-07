@@ -1,0 +1,15 @@
+{
+  "name": "underwear-plugins",
+  "description": "Laravel Forge management plugin for Claude Code",
+  "owner": {
+    "name": "underwear"
+  },
+  "plugins": [
+    {
+      "name": "laravel-forge",
+      "source": "./",
+      "description": "Complete Laravel Forge management from Claude Code - servers, sites, deployments, databases, SSL, SSH keys, firewall, jobs, daemons, and more",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "laravel-forge",
+  "description": "Complete Laravel Forge management from Claude Code - servers, sites, deployments, databases, SSL, SSH keys, firewall, jobs, daemons, and more",
+  "version": "1.0.0",
+  "author": {
+    "name": "underwear"
+  }
+}
